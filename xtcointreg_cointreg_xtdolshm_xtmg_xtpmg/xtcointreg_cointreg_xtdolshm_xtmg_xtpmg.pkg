@@ -1,5 +1,42 @@
-d 'DEA': Data envelopment analysis
+d 'xtcointreg_cointreg_xtdolshm_xtmg_xtpmg': Package ado STATA xtcointreg cointreg xtdolshm xtmg xtpmg
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f bootstrap_xtdcce2.ado
+f cointreg.ado
+f cointreg.sthlp
+f dataex.ado
+f dataex.sthlp
+f hacreg.ado
+f hacreg.sthlp
+f llrcov.mlib
+f lrcov.ado
+f lrcov.sthlp
+f ltimbimata.hlp
+f ltimbimata.mlib
+f ltimbimata_source.hlp
+f mf_mz_decalen.hlp
+f mf_mz_pancolshape.hlp
+f mf_mz_panrowshape.hlp
+f mf_mz_reshape.hlp
+f mf_mz_stdc.hlp
+f mf_mz_trimrows.hlp
+f xtcointreg.ado
+f xtcointreg.sthlp
+f xtdcce2.ado
+f xtdcce2.sthlp
+f xtdcce2_auxiliary.ado
+f xtdcce2_estat.ado
+f xtdcce2_p.ado
+f xtdcce2fast.ado
+f xtdcce2fast.sthlp
+f xtdolshm.ado
+f xtdolshm.sthlp
+f xtdolshm_p.ado
+f xtmg.ado
+f xtmg.sthlp
+f xtpedroni.ado
+f xtpedroni.sthlp
+f xtpmg.ado
+f xtpmg.hlp
+f xtpmg_ml.ado
+f xtset2.ado
+f xtset2.sthlp
